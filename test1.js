@@ -13,3 +13,7 @@ let obj = {a: obj1}
 console.log(obj);
 obj1.b = 2
 console.log(obj);
+function fns(add) {
+    add.split('')
+}
+console.log(fns([1,2,3]));

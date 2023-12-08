@@ -1,0 +1,1 @@
+export  declare function fnss(x: string): void
