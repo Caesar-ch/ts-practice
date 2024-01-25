@@ -87,7 +87,7 @@ const s2:string = value as string
     // const s2: number = s1 as number;
 }
 
-//类型断言的条件
+// 类型断言的条件
 // 类型断言并不意味着，可以把某个值断言为任意类型。
 
 const n = 1;
